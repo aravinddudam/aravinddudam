@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aravinddudam.com/](https://aravinddudam.com/)
 
-- 📝 I regularly write articles on [Start Up's](Start Up's)
+- 📝 I regularly write articles on Start Up's
 
 - 💬 Ask me about **Machine learning, Business Strategies, Start Up**
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://aravinddudam.com/](https://aravinddudam.com/)
 
-- ⚡ Fun fact **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
