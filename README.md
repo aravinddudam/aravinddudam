@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://aravinddudam.com/](https://aravinddudam.com/)
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
