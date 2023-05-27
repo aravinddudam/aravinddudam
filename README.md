@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aravind Dudam</h1>
 <h3 align="center">Contemplative coder and analyst. Inspired by tough problems. “Unlock the Power of Data Explore My Data Science Portfolio Today!”</h3>
-
+<img align="right" alt="Coding" width="400" src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://aravinddudam.com/](https://aravinddudam.com/)
