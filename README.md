@@ -1,3 +1,4 @@
+![Banner](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Aravind Dudam</h1>
 <h2 align="center">Contemplative coder and analyst. Inspired by tough problems.”</h3>
 
