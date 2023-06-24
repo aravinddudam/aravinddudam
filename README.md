@@ -1,7 +1,7 @@
 Hi 👋 My name is Aravind Dudam
 ==============================
 
-Data Scientist
+Data Consultant
 --------------
 
 Contemplative coder and researcher. Inspired by tough problems.
