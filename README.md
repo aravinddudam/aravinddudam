@@ -9,7 +9,7 @@ Contemplative coder and researcher. Inspired by tough problems.
 *   🌍  I'm based in Tampa, Florida
 *   🖥️  See my portfolio at [www.aravinddudam.com](http://www.aravinddudam.com)
 *   ✉️  You can contact me at [aravinddudam.official@gmail.com](mailto:aravinddudam.official@gmail.com)
-*   🚀  I'm currently working on [Build a deep learning model capable of detecting and recognizing objects within images or videos.](http://www.aravinddudam.com)
+*   🚀  I'm currently working on Google Research Project [Build a deep learning model capable of detecting and recognizing objects within images and videos.](http://www.aravinddudam.com)
 *   🧠  I'm learning Computer Vision
 *   🤝  I'm open to collaborating on Machine Learning and Deep Learning Projects.<a href="https://www.github.com/aravinddudam" target="_blank" rel="noreferrer">
 
